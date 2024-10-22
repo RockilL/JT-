@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>申请加入焦糖工作室</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #FF6F61;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        .content {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 5px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #FF6F61;
+        }
+        .icon {
+            font-size: 2em;
+            margin: 10px;
+            color: #FF6F61;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px 0;
+            background: #FF6F61;
+            color: white;
+        }
+        .call-to-action {
+            background: #FF6F61;
+            color: white;
+            padding: 10px;
+            text-align: center;
+            border-radius: 5px;
+            margin-top: 20px;
+            transition: background 0.3s;
+        }
+        .call-to-action:hover {
+            background: #FF4C3B;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>申请加入焦糖工作室</h1>
+    </header>
+    <div class="content">
+        <h2>关于我（♀）</h2>
+        <p>落柒，希望能进面试。</p>
+
+        <h2>为什么想加入焦糖工作室？</h2>
+        <p>焦糖工作室以其卓越的创意和专业的团队而闻名。想和优秀的学长学姐交谈。</p>
+
+        <h2>我的技能</h2>
+        <ul>
+            <li><i class="fas fa-pencil-alt icon"></i> 还算努力的人</li>
+            <li><i class="fas fa-laptop-code icon"></i> Web 后端 喜欢</li>
+          
+        </ul>
+
+        <h2>期待的机会</h2>
+       
+        
+        <div class="call-to-action">
+            <p>如果您能进二面，请与我联系！</p>
+            <a href="mailto:your_email@example.com" style="color: white; text-decoration: none;">联系我</a>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 焦糖工作室 | 落柒</p>
+    </footer>
+</body>
+</html>
