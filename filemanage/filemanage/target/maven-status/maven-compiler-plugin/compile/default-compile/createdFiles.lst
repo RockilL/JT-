@@ -1,0 +1,3 @@
+com\example\filecontrol\service\FileService.class
+com\example\filecontrol\controller\FileController.class
+com\example\filecontrol\FilecontrolApplication.class
